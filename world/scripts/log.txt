@@ -1,0 +1,1 @@
+ERR: Could not find vertex with geonameId AE/00 in collection adm1.ERR: Error message was: ReferenceError: lastIndexOf is not defined
